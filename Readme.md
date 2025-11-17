@@ -48,6 +48,6 @@
 }
 ```
 
-## This is what she think about loveable.dev
+## This is what she thinks about loveable.dev
 
 <img src="miles_dyson.gif" alt="Somewhere on outskirts of Townsville" style="width: 90%;"/>
