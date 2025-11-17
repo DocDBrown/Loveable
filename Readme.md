@@ -47,7 +47,3 @@
   "plugin-integration": ["go", "rust", "swift", "kotlin", "c", "c++", "c#"]
 }
 ```
-
-## This is what she thinks about loveable.dev
-
-<img src="miles_dyson.gif" alt="Somewhere on outskirts of Townsville" style="width: 90%;"/>
