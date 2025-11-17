@@ -3,7 +3,7 @@
 <img src="trinity4.jpg" alt="Dodge This!!!" style="width: 90%;"/>
 
 ## No need to give them $6 billion any more for such a basic product. Loveable has:
-- one programming language (slower, more complex, less secure, signle threaded)
+- one programming language (slower, more complex, less secure, single threaded)
 - no mobile support
 - no smart watch support
 - no smart tv support
