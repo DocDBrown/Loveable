@@ -1,8 +1,20 @@
-# Loveable shares are very over valued
+# Dont waste your time with loveable.dev
 
 <img src="trinity4.jpg" alt="Dodge This!!!" style="width: 90%;"/>
 
-## Don't buy shares in app generation systems that can't guarantee full test coverage, cyber-security coverage and lint coverage in real world best practice languages
+## No need to give them $6 billion any more for such a basic product. Loveable has:
+- one programming language (slower, more complex, less secure, signle threaded)
+- no mobile support
+- no smart watch support
+- no smart tv support
+- no embedded microcontroller support
+- no game console support
+- no car operating system support
+- no comprehensive ultra high accuracy application and service planning systems
+- no comprehensive lint, complexity and security verification
+- no comprehensive unit and integration testing 
+- no comprehensive runtime end to end testing
+
 
 ```json
 {
@@ -23,7 +35,6 @@
   "android-tv": ["kotlin"],
   "fire-tv": ["kotlin"],
   "samsung-tizen-tv": ["c#", "c", "c++"],
-  "lg-webos-tv": [],
   "xr-visionos": ["swift"],
   "xr-openxr": ["c", "c++", "c#", "rust", "go"],
   "game-console-playstation": ["c", "c++", "c#"],
