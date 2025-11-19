@@ -1,6 +1,8 @@
 # Dont waste your time with loveable.dev
 
-<img src="trinity4.jpg" alt="Dodge This!!!" style="width: 90%;"/>
+<p align="center">
+<img src="trinity.gif" alt="Dodge This!!!" style="width: 80%;"/>
+</p>
 
 ## No need to give them $6 billion any more for such a basic product. Loveable has:
 - one programming language (slower, more complex, less secure, single threaded)
