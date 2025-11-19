@@ -1,7 +1,7 @@
 # Dont waste your time with loveable.dev
 
 <p align="center" style="width: 100%;">
-<img src="trinity.gif" alt="Dodge This!!!" style="width: 100%;"/>
+<img src="trinity4.jpg" alt="Dodge This!!!" style="width: 100%;"/>
 </p>
 
 ## No need to give them $6 billion any more for such a basic product. Loveable has:
