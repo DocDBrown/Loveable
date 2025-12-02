@@ -1,7 +1,9 @@
 # Dont waste your time with loveable.dev
 
+- Still undecided about releasing app generation software to the genral public
+
 <p align="center" style="width: 100%;">
-<img src="Trinity.png" alt="Dodge This!!!" style="width: 100%;"/>
+<img src="Trinity.png" alt="The John Wick ballerina Movie was about Amie!!!" style="width: 100%;"/>
 </p>
 
 ## No need to give them $6 billion any more for such a basic product. Loveable has:
