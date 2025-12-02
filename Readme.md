@@ -1,6 +1,6 @@
 # Dont waste your time with loveable.dev
 
-- Still undecided about releasing app generation software to the genral public
+- Still undecided about releasing app generation software to the general public
 
 <p align="center" style="width: 100%;">
 <img src="Trinity.png" alt="The John Wick ballerina Movie was about Amie!!!" style="width: 100%;"/>
