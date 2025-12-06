@@ -3,7 +3,7 @@
 - Still undecided about releasing app generation software to the general public
 
 <p align="center" style="width: 100%;">
-<img src="Trinity.png" alt="The John Wick ballerina Movie was about Amie!!!" style="width: 100%;"/>
+<img src="Trinity.png" alt="Amie looks like Trinity and fights like Trinity" style="width: 100%;"/>
 </p>
 
 ## No need to give them $6 billion any more for such a basic product. Loveable has:
@@ -23,31 +23,32 @@
 ```json
 {
   "backend-api": ["rust"],
-  "web-app-browser": ["rust"],
+  "web-app-browser": ["rust-wasm"],
   "mobile-ios": ["swift"],
   "mobile-android": ["kotlin"],
   "serverless-edge": ["rust"],
   "browser-extension": ["rust"],
-  "desktop-windows": ["rust"],
-  "desktop-macos": ["rust"],
-  "desktop-linux": ["rust"],
+  "desktop-windows": ["rust-wasm"],
+  "desktop-macos": ["rust-wasm"],
+  "desktop-linux": ["rust-wasm"],
   "cli-tui-posix": ["shell-script", "rust"],
-  "cli-windows": ["rust"],
+  "cli-windows": ["shell-script", "rust"],
   "wearos": ["kotlin"],
   "watchos": ["swift"],
   "tvos": ["swift"],
   "android-tv": ["kotlin"],
   "fire-tv": ["kotlin"],
-  "samsung-tizen-tv": ["c#", "c", "c++"], 
+  "samsung-tizen-tv": ["c#"], 
   "xr-visionos": ["swift"],
-  "xr-openxr": ["rust"],
-  "game-console-playstation": ["c", "c++", "c#"],
-  "game-console-xbox": ["c", "c++", "c#"],
-  "game-console-nintendo-switch": ["c", "c++", "c#"],
+  "xr-openxr": ["rust-wasm"],
+  "game-console-playstation": ["c#"],
+  "game-console-xbox": ["c#"],
+  "game-console-nintendo-switch": ["c#"],
   "carplay": ["swift"],
   "android-auto": ["kotlin"],
   "iot-embedded-linux": ["rust"],
   "iot-rtos-microcontroller": ["rust"],
-  "plugin-integration": ["rust", "swift", "kotlin", "c", "c++", "c#"]
+  "plugin-integration": ["rust", "go", "swift", "kotlin", "c", "c++", "c#"],
+  "custom-operating-system": ["x86_64-rust", "arm-rust", "mips-rust", "riscv-rust"]
 }
 ```
