@@ -1,7 +1,8 @@
 # Dont waste your time with loveable.dev
 
 - Still undecided about releasing app generation software to the general public
-
+- And they think I'm joking...
+  
 <p align="center" style="width: 100%;">
 <img src="Trinity.png" alt="Amie looks like Trinity and fights like Trinity" style="width: 100%;"/>
 </p>
