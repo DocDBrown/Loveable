@@ -5,7 +5,7 @@
 - With explicit specifications AI can generate or update applications
 2. For all steps in AI planning:
 - AI drafts each step
-- Human validates each step
+- Human validates each step with meticulos and comprehensive review to find all AI plannign errors and fix them
 - if source code requirements are explicit then LLM is capable of accurate automated creation according to the schema
 - if source code requirements are explicit then LLM is capable of accurate automated unit, integraion and end-to-end testing
 3. It is good to have medium term goals - like improving AI systems so that high accuarcy planning can eventually occur without human assistance
