@@ -1,8 +1,15 @@
 # Dont waste your time with loveable.dev
 
-- Still undecided about releasing app generation software to the general public
-- And they think I'm joking...
-  
+1. Current state of transformer code generation:
+- Transformers are incapable of accurate reasoning or planning
+- With explicit specifications AI can generate or update applications
+2. For all steps in AI planning:
+- AI drafts each step
+- Human validates each step
+- if source code requirements are explicit then LLM is capable of accurate automated creation according to the schema
+- if source code requirements are explicit then LLM is capable of accurate automated unit, integraion and end-to-end testing
+3. Good to have medium term goals
+
 <p align="center" style="width: 100%;">
 <img src="Trinity.png" alt="Amie looks like Trinity and fights like Trinity" style="width: 100%;"/>
 </p>
