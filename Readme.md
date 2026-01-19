@@ -8,7 +8,7 @@
 - Human validates each step
 - if source code requirements are explicit then LLM is capable of accurate automated creation according to the schema
 - if source code requirements are explicit then LLM is capable of accurate automated unit, integraion and end-to-end testing
-3. It is good to have medium term goals - like improving AI systems so that high accuarcy polanning can eventually occur without human assistance
+3. It is good to have medium term goals - like improving AI systems so that high accuarcy planning can eventually occur without human assistance
 
 <p align="center" style="width: 100%;">
 <img src="Trinity.png" alt="Amie looks like Trinity and fights like Trinity" style="width: 100%;"/>
